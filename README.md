@@ -1,3 +1,7 @@
+# Todo-React/TS
+
+My first app using React/TypeScript, a simple todo list :)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
